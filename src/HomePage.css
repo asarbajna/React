@@ -12,7 +12,7 @@
 }
 
 .bubble {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(101, 36, 56, 0.6);
   padding: 15px 25px;
   border-radius: 25px;
   font-size: 1.5rem;
@@ -41,7 +41,7 @@ button {
   padding: 10px 20px;
   border-radius: 8px;
   border: none;
-  background-color: #00bfff;
+  background-color: #955b97;
   color: white;
   font-weight: bold;
   cursor: pointer;
