@@ -55,7 +55,7 @@ function HomePage() {
   // ...existing code...
   useEffect(() => {
     if (!fullAnswer) return;
-
+//start from index = -1
     let index = -1;
     setIsTyping(true);
     setAnswer('');
